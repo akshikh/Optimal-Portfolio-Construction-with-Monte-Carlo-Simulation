@@ -1,4 +1,4 @@
-<img width="611" alt="Screenshot 2024-08-10 at 1 52 32 PM" src="https://github.com/user-attachments/assets/b3039189-1ee1-45fc-8f1e-8488a10cba12"># Optimal-Portfolio-Construction-with-Monte-Carlo-Simulation
+# Optimal-Portfolio-Construction-with-Monte-Carlo-Simulation
 
 
 This project demonstrates the process of constructing an optimized investment portfolio using Modern Portfolio Theory (MPT). The focus is on selecting a diversified set of 10 stocks, calculating the maximum Sharpe ratio, and determining the optimal asset allocation. The project involves several key steps, including:
